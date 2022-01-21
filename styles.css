@@ -1,0 +1,166 @@
+.header,
+.HDR2 {
+    display: flex;
+    background-color: #1F2937;
+    font-family: "Roboto";
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.header {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    background-color: #1F2937;
+}
+
+ul {
+    list-style-type: none;
+    gap: 15px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.HDR2 {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.Box {
+    flex-direction: column;
+    display: flex;
+}
+
+#Awesome {
+    padding-top: 130px;
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 800;
+    width: 450px;
+}
+
+#Subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+    width: 500px;
+    margin-top: 20px;
+    padding-bottom: 7px;
+}
+
+#Button1{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    font-weight: 800;
+    padding-left: 30px; 
+    padding-top: 7px;
+}
+
+#gato1 {
+    width: 450px;
+    padding-top: 135px;
+}
+
+.HDR3 {
+    background-color: white;
+    font-family: "Roboto";
+}
+
+#information {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.catbox {
+    display: flex;
+    justify-content: center;
+    gap: 52px;  
+    
+}
+
+.catsubtext {
+    width: 180px;
+}
+
+.Quote {
+    background-color: #e5e7eb;
+    color: #1F2937;
+}
+
+#frase {
+    font-style: italic;
+    font-size: 36px;
+}
+
+#pacoca {
+    font-size: 18px;
+    font-weight: 800;
+    align-self: end;
+}
+
+.box3 {
+    display: flex;
+    justify-content: center;
+}
+
+.Final1 {
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    color: #f9faf8;
+}
+
+
+.Final {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.Newsletter {
+    display: flex;
+    flex-direction: column;
+}
+
+ #Button3 {
+border-radius: 5px;
+width: 100px;
+height: 25px;
+font-weight: 800;
+color: #f9faf8;
+background-color: transparent;
+align-self: center;
+}
+
+ #Cima {
+font-size: 24px;
+font-weight: 800;
+}
+
+#Footer {
+    color: #f9faf8;
+    justify-content: center;
+    display: flex;
+    padding-top: 5px;
+}
